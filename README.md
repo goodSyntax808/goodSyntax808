@@ -9,7 +9,7 @@ I'm a back-end developer, passionate about both web development and all things R
 - 💬 Ask me about **back-end web development and Rust**
 - 📫 How to reach me: [tom@harmon.tech](mailto:tom@harmon.tech)
 - 📖 My blog is currently under construction 🚧
-- 📄 Learn about my experiences on my [resume](https://harmon.tech/resume)
+- 📄 Learn about my experiences on my [resume](https://harmon.tech/resume.pdf)
 
 #### My Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
