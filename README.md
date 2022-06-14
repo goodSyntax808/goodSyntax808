@@ -3,7 +3,6 @@
 
 I'm a back-end developer, passionate about both web development and all things Rust.
 
-- 🔭 I’m currently working on contributing to [actix-web](https://github.com/actix/actix-web)
 - 🌱 I’m currently learning more about the Rust compiler
 - 🤝 I’m looking to collaborate on contributing to open source projects
 - 💬 Ask me about **back-end web development and Rust**
